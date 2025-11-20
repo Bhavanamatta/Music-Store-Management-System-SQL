@@ -60,7 +60,5 @@ The project was inspired by platforms like **Spotify**, and was presented in a *
 * Presenting technical data in a storytelling format for all audiences.
 * Understanding the real-world role of SQL in business decision-making.
 
----
 
-Would you like me to create a **shorter 2–3 line LinkedIn version** too (same project, but concise and catchy for your profile)?
 
